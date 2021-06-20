@@ -1,6 +1,6 @@
 import React from "react";
 
-//component that just displays things make it a functional component
+//Make it a functional component (b/c it just displays things)
 function Header() {
   return (
     <header>
